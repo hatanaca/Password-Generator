@@ -1,6 +1,6 @@
 const passwordBox = document.getElementById("password")
 const lenght = 12;
-
+// Exemplos
 const upperCase = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 const lowerCase = "abcdefghijklmnopqrstuvwxyz";
 const number = "0123456789";
